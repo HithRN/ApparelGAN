@@ -1,5 +1,7 @@
 # Generative Adversarial Network for Apparel Design
 ApparelGAN is a Advanced Generative Adversarial Network (GAN) model designed to generate various types of apparel, including pants, purses, and shirts. Leveraging advanced deep learning techniques, this model can create realistic and diverse designs, aiding fashion designers, retailers, and enthusiasts in exploring new apparel concepts.
+# please note
+this is a pre-trained model, The generated images may not always depict fully visible clothes with clearly distinguished features. This is primarily due to the resource-intensive nature of the training process, which is time-consuming. We are continuously working to improve the model and enhance the quality of the generated outputs. Thank you for your understanding and patience.
 
 # Features
 Multi-Category Generation: Capable of generating different types of apparel such as pants, purses, and shirts.
